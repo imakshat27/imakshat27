@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Akshat! 👋
 
-<!--
-**imakshat27/imakshat27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate developer and student at VIT Vellore.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+- 🎓 Student at VIT Vellore
+- 💻 I love coding in **Python**, **HTML**, **CSS**, and **JavaScript**
+- 🌱 Currently learning: _React, Next.js_
+- 💡 Interested in: _Web Development, AI, Open Source_
+- 🚀 Always eager to collaborate on exciting projects and contribute to open source
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Tools & Frameworks:** _Node.js_  
+- **Others:** Git, GitHub  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imakshat27&show_icons=true&theme=radical" alt="Akshat's GitHub stats" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/imakshat27/)  
+
+---
+
+## 🌟 Featured Projects
+
+- [Project Name](link) — _Short project description_
+
+---
+
+> *"Always Be Positive"*
