@@ -39,7 +39,7 @@ I'm a passionate developer and student at VIT Vellore.
 
 ## 🌟 Featured Projects
 
-- [Project Name](link) — _Short project description_
+- [LineUp](#) — _A queue management platform that aims to reduce and manage people for restaurants, doctors, temples etc._
 
 ---
 
