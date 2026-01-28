@@ -26,7 +26,7 @@ I'm a passionate developer and student at VIT Vellore.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imakshat27&show_icons=true&theme=radical" alt="Akshat's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imakshat27&show_icons=true&theme=merko" alt="Akshat's GitHub stats" />
 </p>
 
 ---
