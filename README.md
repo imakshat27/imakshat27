@@ -1,46 +1,72 @@
-# Hi there, I'm Akshat! 👋
+# Akshat Agarwal 🚀
 
-Welcome to my GitHub profile!  
-I'm a passionate developer and student at VIT Vellore.
+**Web Developer | Frontend-focused | Builder by instinct**
 
----
-
-## 🙋‍♂️ About Me
-
-- 🎓 Student at VIT Vellore
-- 💻 I love coding in **Python**, **HTML**, **CSS**, and **JavaScript**
-- 🌱 Currently learning: _React, Next.js_
-- 💡 Interested in: _Web Development, AI, Open Source_
-- 🚀 Always eager to collaborate on exciting projects and contribute to open source
+🌐 Portfolio: [akshatagarwal.vercel.app](https://akshatagarwal.vercel.app)
 
 ---
 
-## 🛠️ Skills
+## 👋 About Me
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Tools & Frameworks:** _Node.js_  
-- **Others:** Git, GitHub  
+I’m a web developer who enjoys turning ideas into **fast, intuitive, and scalable** web experiences.  
+I care deeply about **clean UI, thoughtful UX, and solid engineering fundamentals**.
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imakshat27&show_icons=true&theme=merko" alt="Akshat's GitHub stats" />
-</p>
+Whether it’s crafting smooth animations, building full-stack features, or optimizing performance — I like shipping things that *feel good to use*.
 
 ---
 
-## 📫 Connect with Me
+## 🧠 Tech Stack
 
-- [LinkedIn](https://linkedin.com/in/imakshat27/)  
+**Frontend**
+- React, Next.js
+- TypeScript, JavaScript (ES6+)
+- Tailwind CSS, CSS Modules
+- HTML5, CSS3
+
+**Backend & Tools**
+- Node.js
+- REST APIs
+- Git & GitHub
+- Vercel
+- MongoDB / Firebase *(if applicable)*
+
+**Extras**
+- Responsive design
+- Performance optimization
+- Component-driven development
+- Accessibility-first mindset
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Projects
 
-- [LineUp](#) — _A queue management platform that aims to reduce and manage people for restaurants, doctors, temples etc._
+Some things I’ve built:
+- ⚡ Interactive web apps with Next.js  
+- 🎨 Clean, responsive UI systems  
+- 🔐 Auth-enabled dashboards  
+- 📊 Data-driven interfaces  
+
+👉 Full project list & live demos:  
+**[akshatagarwal.vercel.app](https://akshatagarwal.vercel.app)**
 
 ---
 
-> *"Always Be Positive"*
+## 💡 What I Care About
+
+- Writing readable, maintainable code
+- Building products with real users in mind
+- Learning new tools and improving every iteration
+- Balancing aesthetics with performance
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 Portfolio: [akshatagarwal.vercel.app](https://akshatagarwal.vercel.app)
+- 💼 LinkedIn: [imakshat27](https://linkedin.com/in/imakshat27)
+- 🐦 Twitter/X: [imakshat27](https://x.com/imakshat27)
+- 📧 Email: [agarwalakshat2710@gmail.com](mailto:agarwalakshat2710@gmail.com)
+
+---
+
+⭐ If you like my work, feel free to star the repo or reach out — always happy to collaborate.
