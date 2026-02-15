@@ -1,6 +1,6 @@
 # Akshat Agarwal 🚀
 
-**Web Developer | Frontend-focused | Builder by instinct**
+**Web Developer | Builder by instinct**
 
 🌐 Portfolio: [akshatagarwal.vercel.app](https://akshatagarwal.vercel.app)
 
