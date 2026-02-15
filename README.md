@@ -25,10 +25,10 @@ Whether it’s crafting smooth animations, building full-stack features, or opti
 
 **Backend & Tools**
 - Node.js
-- REST APIs
+- Express.js
 - Git & GitHub
 - Vercel
-- MongoDB / Firebase *(if applicable)*
+- MongoDB
 
 **Extras**
 - Responsive design
