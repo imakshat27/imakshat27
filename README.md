@@ -29,6 +29,8 @@ Whether it’s crafting smooth animations, building full-stack features, or opti
 - Git & GitHub
 - Vercel
 - MongoDB
+- PostgreSQL
+- Redis
 
 **Extras**
 - Responsive design
