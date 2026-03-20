@@ -40,6 +40,10 @@ Whether it’s crafting smooth animations, building full-stack features, or opti
 
 ---
 
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=imakshat27&show_icons=true&theme=merko)
+
+---
+
 ## 🛠️ Projects
 
 Some things I’ve built:
