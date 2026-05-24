@@ -50,17 +50,12 @@ build completed with 17 warnings
 
 ---
 
-## ~/stats
+## ~/activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imakshat27&theme=github-compact&hide_border=true&area=true" />
 
 ---
+
 ## ~/philosophy
 
 ```bash
