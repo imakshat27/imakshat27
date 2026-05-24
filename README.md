@@ -1,78 +1,92 @@
-# Akshat Agarwal 🚀
+<div align="center">
 
-**Web Developer | Builder by instinct**
+# Akshat Agarwal
 
-🌐 Portfolio: [akshatagarwal.vercel.app](https://akshatagarwal.vercel.app)
+```bash
+> building scalable systems and AI workflows
+> touching grass ocassionally
+```
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Systems;AI+Workflow+Engineering;RAG+%2B+LLM+Applications;Professional+Overthinker" />
 
-## 👋 About Me
-
-I’m a web developer who enjoys turning ideas into **fast, intuitive, and scalable** web experiences.  
-I care deeply about **clean UI, thoughtful UX, and solid engineering fundamentals**.
-
-Whether it’s crafting smooth animations, building full-stack features, or optimizing performance — I like shipping things that *feel good to use*.
+</div>
 
 ---
 
-## 🧠 Tech Stack
+```bash
+$ sudo ship --feature
 
-**Frontend**
-- React, Next.js
-- TypeScript, JavaScript (ES6+)
-- Tailwind CSS, CSS Modules
-- HTML5, CSS3
+> initializing confidence...
+> deploying questionable decisions...
+> patching production...
+> pretending this was the intended architecture
 
-**Backend & Tools**
-- Node.js
-- Express.js
-- Git & GitHub
-- Vercel
-- MongoDB
-- PostgreSQL
-- Redis
-
-**Extras**
-- Responsive design
-- Performance optimization
-- Component-driven development
-- Accessibility-first mindset
+build completed with 17 warnings
+```
 
 ---
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=imakshat27&show_icons=true&theme=merko)
+## ~/stack
+
+`ts` `js` `py` `java` `sql`
+
+`react` `next` `tailwind`
+
+`node` `express` `rest`
+
+`postgres` `mongodb` `redis` `supabase`
+
+`rag` `ollama` `streamlit` `pandas`
 
 ---
 
-## 🛠️ Projects
+## ~/currently
 
-Some things I’ve built:
-- ⚡ Interactive web apps with Next.js  
-- 🎨 Clean, responsive UI systems  
-- 🔐 Auth-enabled dashboards  
-- 📊 Data-driven interfaces  
-
-👉 Full project list & live demos:  
-**[akshatagarwal.vercel.app](https://akshatagarwal.vercel.app)**
+- building GenAI workflows
+- engineering transaction intelligence systems
+- making local LLMs read bank statements
+- optimizing APIs before necessary
+- debugging things that should not be breaking
 
 ---
 
-## 💡 What I Care About
+## ~/stats
 
-- Writing readable, maintainable code
-- Building products with real users in mind
-- Learning new tools and improving every iteration
-- Balancing aesthetics with performance
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+## ~/philosophy
+
+```bash
+99 little bugs in the code
+99 little bugs
+
+take one down
+patch it around
+
+127 little bugs in the code
+```
 
 ---
 
-## 📫 Let’s Connect
+## ~/contact
 
-- 🌐 Portfolio: [akshatagarwal.vercel.app](https://akshatagarwal.vercel.app)
-- 💼 LinkedIn: [imakshat27](https://linkedin.com/in/imakshat27)
-- 🐦 Twitter/X: [imakshat27](https://x.com/imakshat27)
-- 📧 Email: [agarwalakshat2710@gmail.com](mailto:agarwalakshat2710@gmail.com)
+```yaml
+email:     agarwalakshat2710@gmail.com
+x:         x.com/imakshat_27
+linkedin:  linkedin.com/in/imakshat27
+portfolio: akshatagarwal.vercel.app
+location:  Ahmedabad, IN
+```
 
----
+<div align="center">
 
-⭐ If you like my work, feel free to star the repo or reach out — always happy to collaborate.
+> there is nothing more permanent than a temporary fix
+
+</div>
