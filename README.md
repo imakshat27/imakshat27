@@ -7,7 +7,7 @@
 > touching grass ocassionally
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Systems;AI+Workflow+Engineering;RAG+%2B+LLM+Applications;Professional+Overthinker" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Systems;AI+Workflow+Engineering;RAG+%2B+LLM+Applications" />
 
 </div>
 
@@ -16,7 +16,7 @@
 ```bash
 $ sudo ship --feature
 
-> initializing confidence...
+> initializing blind optimism...
 > deploying questionable decisions...
 > patching production...
 > pretending this was the intended architecture
@@ -80,8 +80,6 @@ portfolio: akshatagarwal.vercel.app
 location:  Ahmedabad, IN
 ```
 
-<div align="center">
 
 > there is nothing more permanent than a temporary fix
 
-</div>
