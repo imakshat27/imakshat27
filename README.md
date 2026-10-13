@@ -52,7 +52,8 @@ build completed with 17 warnings
 
 ## ~/activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imakshat27&theme=github-compact&hide_border=true&area=true" />
+<img src="https://raw.githubusercontent.com/imakshat27/imakshat27/activity-assets/activity-90d.svg" width="100%" alt="GitHub Activity Graph" />
+
 
 ---
 
