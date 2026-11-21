@@ -77,7 +77,7 @@ patch it around
 email:     agarwalakshat2710@gmail.com
 x:         x.com/imakshat_27
 linkedin:  linkedin.com/in/imakshat27
-portfolio: aksht.site
+portfolio: imakshat.com
 location:  Ahmedabad, IN
 ```
 
